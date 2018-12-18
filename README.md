@@ -1,4 +1,4 @@
-# ---
+# Statstical-Learning-Method
 对《统计学习方法》李航著，的python实现
 
 主要参考：
